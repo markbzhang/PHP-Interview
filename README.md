@@ -6,7 +6,7 @@
 
 可以通过[https://xianyunyh.gitbooks.io/php-interview/](https://xianyunyh.gitbooks.io/php-interview/)预览。欢迎有精力的朋友完善一下。谢谢。
 
-[GITbooK分支](https://github.com/xianyunyh/PHP-Interview/tree/gitbook)
+
 
 - [Linux](Linux/REAMDE.md)
 
@@ -120,6 +120,3 @@
 
 
 
-如果这个系列的文章，对您有所帮助，您可以选择打赏一下作者。谢谢！
-
-![](mm_reward_qrcode.jpg)
